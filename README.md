@@ -1,11 +1,5 @@
 # regex-awesome
 Store all regex pattern in the world
 
-## Inline html attributes tag
-```
-style=\"(.*?)\"
-```
-## Find string like sql "LIKE"
-```
-^.*your-text-search.*$
-```
+1. Inline html attributes tag:```style=\"(.*?)\"```
+2. Find string like sql "LIKE":```^.*your-text-search.*$```
